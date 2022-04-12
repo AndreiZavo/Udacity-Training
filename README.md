@@ -2,7 +2,7 @@
 A collection of toy apps made throughout the course of Udacity's training for Mobile Development in Android
 
 * Leasson 󠁩󠁩I
-    * [Dice Roller](https://github.com/AndreiZavo/Dice-Roller)
+    * ✅☑✔[Dice Roller](https://github.com/AndreiZavo/Dice-Roller)
 * Leasson II
     * [About Me](https://github.com/AndreiZavo/About-Me)
     * [Color My Views](https://github.com/AndreiZavo/ColorMyViews)
