@@ -1,20 +1,20 @@
 # Udacity-Training
 A collection of toy apps made throughout the course of Udacity's training for Mobile Development in Android
 
-* Leasson 󠁩󠁩I
-    * ✅☑✔[Dice Roller](https://github.com/AndreiZavo/Dice-Roller)
-* Leasson II
+* ✔ Leasson 󠁩󠁩I
+    * [Dice Roller](https://github.com/AndreiZavo/Dice-Roller)
+* ✔ Leasson II
     * [About Me](https://github.com/AndreiZavo/About-Me)
     * [Color My Views](https://github.com/AndreiZavo/ColorMyViews)
-* Leasson III
+* ✔ Leasson III
     * [Trivia App](https://github.com/AndreiZavo/TriviaApp)
-* Leasson IV
+* ✔ Leasson IV
     * [Dessert Pusher](https://github.com/AndreiZavo/Dessert-Pusher)
-* Leasson V
+* ✔ Leasson V
     * [Guess It](https://github.com/AndreiZavo/Guess-It)
-* Leason VI
+* ✔ Leason VI
     * [Sleep Tracker](https://github.com/AndreiZavo/Sleep-Tracker)
-* Leasson VII
+* ✔ Leasson VII
     * [Sleep Quality](https://github.com/AndreiZavo/Sleep-Quality-Recycle)
-* Leasson VIII
+* ✔ Leasson VIII
     * [Mars Realestate](https://github.com/AndreiZavo/Mars-Realestate)
