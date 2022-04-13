@@ -18,7 +18,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * [Sleep Quality](https://github.com/AndreiZavo/Sleep-Quality-Recycle)
 * ✔ Leasson VIII
     * [Mars Realestate](https://github.com/AndreiZavo/Mars-Realestate)
-*   Leasson IX
+* 🔃 Leasson IX
     * In progress     
-*   Leasson X
+* 🔃 Leasson X
     * In progress     
