@@ -19,4 +19,6 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
 * ✔ Leasson VIII
     * [Mars Realestate](https://github.com/AndreiZavo/Mars-Realestate)
 *   Leasson IX
+    *In progress     
 *   Leasson X
+    *In progress     
