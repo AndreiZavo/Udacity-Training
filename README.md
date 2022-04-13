@@ -13,7 +13,9 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
 ---
 ## Lessons
 
-### Lesson I - [Dice Roller 🎲](https://github.com/AndreiZavo/Dice-Roller)
+### Lesson I 
+
+### [Dice Roller 🎲](https://github.com/AndreiZavo/Dice-Roller)
 * The application:
     * A toy application that rolls a dice in a random order
 * The scope:
