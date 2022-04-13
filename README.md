@@ -9,12 +9,12 @@ A collection of demo applications made throughout the course of Udacity's traini
 
 ---
 # General Info
-
+I took [this](https://classroom.udacity.com/courses/ud9012) course provided by Udacity in order to brush over my knowledge from previous semester at the university, but also to spread my horizon regarding mobile development in Kotlin. Throught this course I covered from basic Android components to know how to use technologies like Room, Retrofit, online and offline services, and, basically create an application that is suitable for every type of user.
 
 ---
 # Lessons
 
-## Lesson I 
+## Lesson I
 
 ### [Dice Roller 🎲](https://github.com/AndreiZavo/Dice-Roller)
 * The application:
@@ -94,10 +94,11 @@ A collection of demo applications made throughout the course of Udacity's traini
 
 ---
 ## Lesson IX
-
+* In progress
 
 ---
 ## Lesson X
-
+* In progress
 ---
 # Conclussion
+* Is to be drown once I finish the course 😉
