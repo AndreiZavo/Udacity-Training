@@ -1,5 +1,5 @@
 # Udacity-Training
-A collection of toy apps made throughout the course of Udacity's training for Mobile Development in Kotlin
+A collection of demo applications made throughout the course of Udacity's training for Mobile Development in Kotlin
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Udacity_logo.png"> </p>
 
 ## Table of Contents
@@ -8,13 +8,13 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
 * [Conclusion](#conclussion)
 
 ---
-## General Info
+# General Info
 
 
 ---
-## Lessons
+# Lessons
 
-### Lesson I 
+## Lesson I 
 
 ### [Dice Roller 🎲](https://github.com/AndreiZavo/Dice-Roller)
 * The application:
@@ -23,7 +23,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Cover the basics of Android components like displaying text and images
 
 ---
-### Lesson II  
+## Lesson II  
 
 ### [About-Me 🙎🏼‍♂️](https://github.com/AndreiZavo/About-Me)
 * The application:
@@ -38,7 +38,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Cover the basics of UI layout design
 
 ---
-### Lesson III
+## Lesson III
 
 ### [TriviaApp ❓](https://github.com/AndreiZavo/TriviaApp)
 * The application:
@@ -47,7 +47,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Cover multiple navigation, with the Navigation library, intertwined with multiple fragments 
 
 ---
-### Lesson IV
+## Lesson IV
 
 ### [Dessert-Pusher 🍰](https://github.com/AndreiZavo/Dessert-Pusher)
 * The application:
@@ -57,7 +57,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
 
 
 ---
-### Lesson V
+## Lesson V
 
 ### [Guess-It 🔎](https://github.com/AndreiZavo/Guess-It)
 * The application:
@@ -66,7 +66,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Learn about Architecture Components and the power of the ViewModel and binding data with Live Data
 
 ---
-### Lesson VI
+## Lesson VI
 
 ### [Sleep-Tracker 💤](https://github.com/AndreiZavo/Sleep-Tracker)
 * The application:
@@ -75,7 +75,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Understand data persistence, storing data permently, with Room implementation and Coroutines
 
 ---
-### Lesson VII
+## Lesson VII
 
 ### [Sleep-Quality-Recycle 🛌🏼](https://github.com/AndreiZavo/Sleep-Quality-Recycle)
 * The application:
@@ -84,7 +84,7 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Learn to structure similar elements in a list or a grid with Recycle View
 
 ---
-### Lesson VIII
+## Lesson VIII
 
 ### [Mars-Realestate 🏡](https://github.com/AndreiZavo/Mars-Realestate)
 * The application:
@@ -93,11 +93,11 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Learn how to use Retrofit in order to coummunicate with any API services
 
 ---
-### Lesson IX
+## Lesson IX
 
 
 ---
-### Lesson X
+## Lesson X
 
 ---
-## Conclussion
+# Conclussion
