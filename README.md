@@ -20,9 +20,17 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
     * Cover the basics of Android components like displaying text and images
 
 ---
-### Lesson II - [About-Me 🙎🏼‍♂️](https://github.com/AndreiZavo/About-Me)
+### Lesson II  
+
+[About-Me 🙎🏼‍♂️](https://github.com/AndreiZavo/About-Me)
 * The application:
     * A toy application that displays an user profile with various UI elements
+* The scope:
+    * Cover the basics of UI layout design
+
+# [ColorMyViews 🎨](https://github.com/AndreiZavo/ColorMyViews)
+* The application:
+    * A toy application that colors boxes according to user choices
 * The scope:
     * Cover the basics of UI layout design
 
