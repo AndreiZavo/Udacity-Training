@@ -1,6 +1,6 @@
 # Udacity-Training
 A collection of toy apps made throughout the course of Udacity's training for Mobile Development in Android
-
+## Table of Contents
 * ✔ Leasson 󠁩󠁩I
     * [Dice Roller](https://github.com/AndreiZavo/Dice-Roller)
 * ✔ Leasson II
