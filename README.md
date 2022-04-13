@@ -39,26 +39,57 @@ A collection of toy apps made throughout the course of Udacity's training for Mo
 ---
 ### Lesson III
 
+### [TriviaApp ❓](https://github.com/AndreiZavo/TriviaApp)
+* The application:
+    * A toy application that displays a quiz with multiple pages and questions to the user
+* The scope:
+    * Cover multiple navigation, with the Navigation library, intertwined with multiple fragments 
 
 ---
 ### Lesson IV
+
+### [Dessert-Pusher 🍰](https://github.com/AndreiZavo/Dessert-Pusher)
+* The application:
+    * A toy application that lets the user play by ordering various desserts
+* The scope:
+    * Understanding the concept of Lifecycles for both activities and fragments
 
 
 ---
 ### Lesson V
 
+### [Guess-It 🔎](https://github.com/AndreiZavo/Guess-It)
+* The application:
+    * A toy application that lets the user play a word-guessing game with a friend
+* The scope:
+    * Learn about Architecture Components and the power of the ViewModel and binding data with Live Data
 
 ---
 ### Lesson VI
 
+### [Sleep-Tracker 💤](https://github.com/AndreiZavo/Sleep-Tracker)
+* The application:
+    * A toy application that lets the user time and rate his sleep
+* The scope:
+    * Understand data persistence, storing data permently, with Room implementation and Coroutines
 
 ---
 ### Lesson VII
 
+### [Sleep-Quality-Recycle 🛌🏼](https://github.com/AndreiZavo/Sleep-Quality-Recycle)
+* The application:
+    * A toy application that lets the user time and rate his sleep
+* The scope:
+    * Learn to structure similar elements in a list or a grid with Recycle View
 
 ---
 ### Lesson VIII
 
+### [Mars-Realestate 🏡](https://github.com/AndreiZavo/Mars-Realestate)
+* The application:
+    * A toy application that lets the user browse "properties" on Mars
+* The scope:
+    * Learn how to use Retrofit in order to coummunicate with any API services
 
 ---
 ### Lesson IX
