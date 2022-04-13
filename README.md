@@ -1,5 +1,6 @@
 # Udacity-Training
 A collection of toy apps made throughout the course of Udacity's training for Mobile Development in Kotlin
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Udacity_logo.png"> </p>
 
 ## Table of Contents
 * [General Info](#general-info)
