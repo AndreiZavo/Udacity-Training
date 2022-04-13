@@ -2,7 +2,7 @@
 A collection of demo applications made throughout the course of Udacity's training for Mobile Development in Kotlin
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Udacity_logo.png"> </p>
 
-## Table of Contents
+# Table of Contents
 * [General Info](#general-info)
 * [Lessons](#lessons)
 * [Conclusion](#conclussion)
