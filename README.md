@@ -94,7 +94,12 @@ I took [this](https://classroom.udacity.com/courses/ud9012) course provided by U
 
 ---
 ## Lesson IX
-* In progress
+
+### [DevByte 🎩](https://github.com/AndreiZavo/DevByte)
+* The application:
+    * A toy application that has an offline cache for better performance
+* The scope:
+    * Understand and know how to implement an offline cache and use WorkManager for overall performance 
 
 ---
 ## Lesson X
