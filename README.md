@@ -104,7 +104,7 @@ I took [this](https://classroom.udacity.com/courses/ud9012) course provided by U
 ---
 ## Lesson X 
 
-###[GDG Finder🗺](https://github.com/AndreiZavo/GDG-Finder)
+### [GDG Finder🗺](https://github.com/AndreiZavo/GDG-Finder)
 * The application:
     * A toy application that lets the user find different locations for gdg events
 * The scope:
