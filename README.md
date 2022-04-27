@@ -5,7 +5,7 @@ A collection of demo applications made throughout the course of Udacity's traini
 # Table of Contents
 * [General Info](#general-info)
 * [Lessons](#lessons)
-* [Conclusion](#conclussion)
+* [Conclusion](#conclusion)
 
 ---
 # General Info
@@ -108,6 +108,6 @@ I took [this](https://classroom.udacity.com/courses/ud9012) course provided by U
 * The scope:
     * Learn how to manage different accesibility concenrs like right to left text, implement chips and dark mode 
 ---
-# Conclussion 😆
+# Conclusion 😆
 Going through this course was an incredible experience! Some concepts were new to me and some of them required brushing over since my previous semester at my university in which I first learned about mobile development. From the basic concepts of how to order your files and what are Android components, to constructing a holesome application with a secure architecture implementing a local database with Room, web service integration with Retrofit, various UI/UX elements with focus to all categories of users, this course takes you through all. The teachers are great and the leassons are structured very well. It all seems like a day on the playground, not even acknowledging how fast you accumulate new information. 🏆
-I am more than happy that I stumbled across this course while browsing for learning content because is everything I could ask for and I recommend it deeply. Happy coding! 😉
+<p> I am more than happy that I stumbled across this course while browsing for learning content because is everything I could ask for and I recommend it deeply. Happy coding! 😉 </p>
